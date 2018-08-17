@@ -1,4 +1,5 @@
 # Praxis-Project
 
 * Jhon Jairo Serna Córdoba
-* Sebastian Pino Sánchez [sebastianpinosanchez](https://github.com/sebastianpinosanchez)
+* Sebastian Pino SÃ¡nchez [sebastianpinosanchez](https://github.com/sebastianpinosanchez)
+* Carlos Ernesto Santos Velasco  [cesantosv](https://github.com/cesantosv)
