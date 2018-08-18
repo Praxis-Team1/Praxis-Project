@@ -48,4 +48,4 @@ Follow the below instruction to install/run the application.
 * Carlos Ernesto Santos Velasco  [cesantosv](https://github.com/cesantosv)
 * Juan Pablo Villegas Gomez [MrPaul91](https://github.com/MrPaul91)
 * **Jerson David Mendoza Alvarez** - [jdmendozaa](https://github.com/jdmendozaa)
-
+* **Nicolás Peña Arias** - [nipenaar](https://github.com/nipenaar)
